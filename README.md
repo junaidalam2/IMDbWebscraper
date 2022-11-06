@@ -12,13 +12,13 @@ Example output:
 
 - Python
   - libraries:
-    - request
+    - requests
     - beautifulsoup
     
 
 
 ## Installation
-Installation of Python is required. The application uses beautifulsoup and request libraries in Python. Python operates on a standard IDE. 
+Installation of Python is required. The application uses beautifulsoup and requests libraries in Python. Python operates on a standard IDE. 
 
 ## Author
 
